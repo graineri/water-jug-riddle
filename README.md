@@ -38,7 +38,7 @@ or
 
 `$> sbt` and once inside `sbt` console, execute `run`. 
 
-You should the following output:
+You should see the following output:
 ```
 
  _    _       _                 ___               ______ _     _     _ _
